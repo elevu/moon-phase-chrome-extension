@@ -20,6 +20,7 @@ build.pem
 .env.test.local
 .env.production.local
 
+.idea
 .eslintcache
 
 npm-debug.log*
